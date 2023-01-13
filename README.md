@@ -1,12 +1,14 @@
 # heohgoo.github.io(사진 인식을 이용한 음식 추천 웹 어플리케이션)
 
+
+![image](https://user-images.githubusercontent.com/95553132/212217703-fe548a99-f2ac-4bf4-8a3c-c0b87e189ee9.png)
+
+
+
 Vue.js 프레임워크 사용, 반응형 웹 구성, UI/UX 디자인
 
 
 ![image](https://user-images.githubusercontent.com/95553132/212215384-8680e59f-d066-4072-be40-e4791b696321.png)
-
-
-![image](https://user-images.githubusercontent.com/95553132/212217703-fe548a99-f2ac-4bf4-8a3c-c0b87e189ee9.png)
 
 
 ![image](https://user-images.githubusercontent.com/95553132/212217744-165128bc-f34b-48fb-8138-6a47602d7798.png)
