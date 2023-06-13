@@ -3,6 +3,9 @@
 
 ![image](https://user-images.githubusercontent.com/95553132/212217703-fe548a99-f2ac-4bf4-8a3c-c0b87e189ee9.png)
 
+프론트엔드 배포
+
+![image](https://images.velog.io/images/tmdejr1117/post/6a89fedf-0be5-49ca-8a5b-ba0d89d65e8f/github_pages_logo.jpg)
 
 
 Vue.js 프레임워크 사용, 반응형 웹 구성, UI/UX 디자인
