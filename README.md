@@ -9,15 +9,15 @@ http://rekummend.s3-website.ap-northeast-2.amazonaws.com
 
 <image src="https://user-images.githubusercontent.com/95553132/212217703-fe548a99-f2ac-4bf4-8a3c-c0b87e189ee9.png" width=500 height=300>
 </div>
-
+<br/><br/>
 <div align="center">
   
-  **프론트엔드 빌드**
+ ## **프론트엔드 빌드**
 
 
 <image src="https://github.com/heohgoo/heohgoo.github.io/assets/95553132/54ecd495-cea7-4896-b771-e2b4b9c41197" width=200 height=100>
 
-  **프론트엔드 배포/호스팅**
+##  **프론트엔드 배포/호스팅**
 
 
 
@@ -27,30 +27,51 @@ http://rekummend.s3-website.ap-northeast-2.amazonaws.com
 
 </div>
 
+<br/>
+<br/>
 
 **1. (초기 화면) 로그인 페이지**
 
+<br/>
 
 <center><image src="https://user-images.githubusercontent.com/95553132/212215384-8680e59f-d066-4072-be40-e4791b696321.png" width=400 height=900></center>
 
+<br/>
+
 **2. 음식 사진 선택/음식 추천 메뉴 선택 페이지**
+
+<br/>
 
 <center><image src="https://user-images.githubusercontent.com/95553132/212217744-165128bc-f34b-48fb-8138-6a47602d7798.png" width=400 height=900></center>
 
+<br/>
+
 **3. 음식 추천 페이지**
+
+<br/>
 
 <center><image src="https://user-images.githubusercontent.com/95553132/212217764-097e1e53-3c6d-46f1-a03a-80fb2d0e2054.png" width=400 height=900></center>
 
+<br/>
 
 <center><image src="https://user-images.githubusercontent.com/95553132/212217784-6781826a-7992-4bb3-8c7b-b89dc1ba21e0.png" width=400 height=900></center>
 
+<br/>
+
 **4. 음식점 위치 확인 페이지**
+
+<br/>
 
 <center><image src="https://user-images.githubusercontent.com/95553132/212217808-7b763b58-2169-4456-b88e-9f7c78d39dae.png" width=400 height=900></center>
 
+<br/>
+
 **5. 리뷰 페이지**
+
+<br/>
 
 <center><image src="https://user-images.githubusercontent.com/95553132/212217818-a365a277-48d7-4b4e-bee8-811bb4c143f8.png" width=400 height=900></center>
 
+<br/>
 
 
