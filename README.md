@@ -6,6 +6,7 @@ http://rekummend.s3-website.ap-northeast-2.amazonaws.com
 ![image](https://user-images.githubusercontent.com/95553132/212217703-fe548a99-f2ac-4bf4-8a3c-c0b87e189ee9.png)
 
 프론트엔드 빌드
+![image](https://github.com/heohgoo/heohgoo.github.io/assets/95553132/54ecd495-cea7-4896-b771-e2b4b9c41197)
 
 ![image](https://res.cloudinary.com/daleseo/image/upload/v1633999280/npm.jpg)
 
