@@ -1,4 +1,5 @@
-# Rekummend(사진 인식을 이용한 음식 추천 웹 어플리케이션)
+# Rekummend
+# (사진 인식을 이용한 음식 추천 웹 어플리케이션)
 
 <div align="center">
 -> 컨텐츠 기반 필터링(contents-based filtering). 협업 필터링(collaborative filtering)
@@ -14,11 +15,13 @@ http://rekummend.s3-website.ap-northeast-2.amazonaws.com
   
  ## **프론트엔드 빌드**
 
+### Vue CLI => cli-service
+
+<br/>
 
 <image src="https://github.com/heohgoo/heohgoo.github.io/assets/95553132/54ecd495-cea7-4896-b771-e2b4b9c41197" width=200 height=100>
 
 ##  **프론트엔드 배포/호스팅**
-
 
 
 <image src="https://images.velog.io/images/tmdejr1117/post/6a89fedf-0be5-49ca-8a5b-ba0d89d65e8f/github_pages_logo.jpg" width=300 height=150>
