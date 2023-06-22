@@ -17,16 +17,17 @@ http://rekummend.s3-website.ap-northeast-2.amazonaws.com
 
 ### Vue CLI => cli-service
 
+<image src="https://github.com/heohgoo/heohgoo.github.io/assets/95553132/54ecd495-cea7-4896-b771-e2b4b9c41197" width=200 height=100>
 <br/>
 
-<image src="https://github.com/heohgoo/heohgoo.github.io/assets/95553132/54ecd495-cea7-4896-b771-e2b4b9c41197" width=200 height=100>
-
 ##  **프론트엔드 배포/호스팅**
-
+<br/>
 
 <image src="https://images.velog.io/images/tmdejr1117/post/6a89fedf-0be5-49ca-8a5b-ba0d89d65e8f/github_pages_logo.jpg" width=300 height=150>
 
 <image src="https://vercel.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F24ta7DT27HcvU9g4pHOBFx%2Fdfc9993c36e16a7af779c28e8962d13f%2FFrame_1__1_.png&w=3840&q=75&dpl=dpl_EBJrE1a1KUVhZ1NDBZvXpTWgGbGn" width=200 height=130>
+
+<br/>
 
 </div>
 
