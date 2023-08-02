@@ -10,8 +10,6 @@
 
 http://heohgoo.github.io
 
-http://rekummend.s3-website.ap-northeast-2.amazonaws.com
-
 
 
 ~~현재는 백엔드 서버를 닫아 놓은 상태입니다.~~
