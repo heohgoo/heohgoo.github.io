@@ -48,6 +48,8 @@ http://heohgoo.github.io
 
 <div align="center">
 
+## ** 화면 구성 및 기능 **
+
 **1. (초기 화면) 로그인 페이지**
 
 <br>
