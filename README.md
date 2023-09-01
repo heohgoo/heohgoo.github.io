@@ -7,6 +7,7 @@
 
 <div align="center">
 -> 컨텐츠 기반 필터링(contents-based filtering). 협업 필터링(collaborative filtering)
+-> ResNet 기반 음식 사진 인식 모델
 
   **Vue.js 프레임워크 사용, 반응형 웹 구성(media query), SPA(Single Page Application)**
 
