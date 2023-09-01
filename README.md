@@ -32,7 +32,7 @@ http://heohgoo.github.io
 <image src="https://github.com/heohgoo/heohgoo.github.io/assets/95553132/54ecd495-cea7-4896-b771-e2b4b9c41197" width=200 height=100>
 <br/>
 
-##  **프론트엔드 배포/호스팅**
+## **프론트엔드 배포/호스팅**
 <br/>
 
 <image src="https://images.velog.io/images/tmdejr1117/post/6a89fedf-0be5-49ca-8a5b-ba0d89d65e8f/github_pages_logo.jpg" width=300 height=150>
@@ -48,7 +48,14 @@ http://heohgoo.github.io
 
 <div align="center">
 
-## ** 화면 구성 및 기능 **
+## 화면 구성 및 기능
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **1. (초기 화면) 로그인 페이지**
 
