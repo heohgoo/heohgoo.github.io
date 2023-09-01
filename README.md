@@ -39,55 +39,120 @@ http://heohgoo.github.io
 
 <image src="https://vercel.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F24ta7DT27HcvU9g4pHOBFx%2Fdfc9993c36e16a7af779c28e8962d13f%2FFrame_1__1_.png&w=3840&q=75&dpl=dpl_EBJrE1a1KUVhZ1NDBZvXpTWgGbGn" width=200 height=130>
 
-<br/>
+<br>
 
 </div>
 
-<br/>
-<br/>
+<br>
+<br>
+
+<div align="center">
 
 **1. (초기 화면) 로그인 페이지**
 
-<br/>
+<br>
+<br>
+<br>
 
 <center><image src="https://user-images.githubusercontent.com/95553132/212215384-8680e59f-d066-4072-be40-e4791b696321.png" width=400 height=900></center>
 
-<br/>
+<br>
+<br>
+<br>
 
 **2. 음식 사진 선택/음식 추천 메뉴 선택 페이지**
 
-<br/>
+<br>
+<br>
+<br>
+
 
 <center><image src="https://user-images.githubusercontent.com/95553132/212217744-165128bc-f34b-48fb-8138-6a47602d7798.png" width=400 height=900></center>
 
-<br/>
+<br>
+<br>
+<br>
+
+**3. 음식 사진 인식 페이지**
+
+<br>
+<br>
+<br>
+
+![image](https://github.com/heohgoo/heohgoo.github.io/assets/95553132/6e0cc773-8e80-4cbf-8634-38095015c099)
+
+<br>
+<br>
+<br>
+
+![image](https://github.com/heohgoo/heohgoo.github.io/assets/95553132/5666ce8f-f749-4bd8-8a75-d4c432d82a04)
+
+<br>
+<br>
+<br>
+
+
+
 
 **3. 음식 추천 페이지**
 
-<br/>
+<br>
+<br>
+<br>
 
 <center><image src="https://user-images.githubusercontent.com/95553132/212217764-097e1e53-3c6d-46f1-a03a-80fb2d0e2054.png" width=400 height=900></center>
 
-<br/>
+<br>
+<br>
+<br>
 
 <center><image src="https://user-images.githubusercontent.com/95553132/212217784-6781826a-7992-4bb3-8c7b-b89dc1ba21e0.png" width=400 height=900></center>
 
-<br/>
+<br>
+<br>
+<br>
 
 **4. 음식점 위치 확인 페이지**
 
-<br/>
+<br>
+<br>
+<br>
 
-<center><image src="https://user-images.githubusercontent.com/95553132/212217808-7b763b58-2169-4456-b88e-9f7c78d39dae.png" width=400 height=900></center>
+![image](https://github.com/heohgoo/heohgoo.github.io/assets/95553132/97576c64-48da-4ee0-94bd-8e546a7ff7c2)
 
-<br/>
+
+<br>
+<br>
+<br>
 
 **5. 리뷰 페이지**
 
-<br/>
+<br>
+<br>
+<br>
+
+![image](https://github.com/heohgoo/heohgoo.github.io/assets/95553132/8cc71422-12c8-4192-aff7-41380362e18f)
+
+<br>
+<br>
+<br>
+
 
 <center><image src="https://user-images.githubusercontent.com/95553132/212217818-a365a277-48d7-4b4e-bee8-811bb4c143f8.png" width=400 height=900></center>
 
-<br/>
+<br>
+<br>
+<br>
 
+![image](https://github.com/heohgoo/heohgoo.github.io/assets/95553132/f782ffd4-c2f5-4a45-bbad-f322a30f2e65)
+
+<br>
+<br>
+<br>
+
+
+
+
+
+</div>
 
