@@ -1,5 +1,9 @@
-# Rek:ummend(졸업프로젝트)
+<div align="center">
+ 
+# Rek:ummend - 졸업프로젝트
 # (사진 인식을 이용한 음식 추천 웹 어플리케이션)
+
+</div>
 
 <div align="center">
 -> 컨텐츠 기반 필터링(contents-based filtering). 협업 필터링(collaborative filtering)
