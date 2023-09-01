@@ -1,4 +1,4 @@
-# Rekummend
+# Rek:ummend(졸업프로젝트)
 # (사진 인식을 이용한 음식 추천 웹 어플리케이션)
 
 <div align="center">
